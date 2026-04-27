@@ -1,1 +1,1 @@
-asdfgasdf
+print(12345)
